@@ -8,6 +8,6 @@ public class PeopleController {
 
   @GetMapping("/")
   public String hello(){
-    return "CI/CD HEROKU  MANO";
+    return "CI/CD HEROKU  MANO hh";
   }
 }
