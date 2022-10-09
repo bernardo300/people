@@ -1,5 +1,5 @@
 #
-name: GitHub-Actions Example-PRD
+name: CI FOR PRD
 
 on:
   push:
