@@ -10,4 +10,9 @@ public class PeopleController {
   public String hello(){
     return "CI/CD HEROKU FUNCIONA LOGO";
   }
+
+  @GetMapping("/helo")
+  public String hello1(){
+    return "CI/CD";
+  }
 }
