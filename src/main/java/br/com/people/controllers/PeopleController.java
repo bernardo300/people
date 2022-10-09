@@ -11,7 +11,7 @@ public class PeopleController {
     return "CI Heroku";
   }
 
-  @GetMapping("/helo")
+  @GetMapping("/hello")
   public String hello1(){
     return "CI/CD";
   }
