@@ -1,1 +1,1 @@
-![GitHub-Actions Example-DEV](https://github.com/wagnerww/GitHub-Actions-Java-Maven/workflows/GitHub-Actions%20Example-DEV/badge.svg)
+[![CI FOR DEV](https://github.com/bernardo300/people/actions/workflows/ci-dev.yml/badge.svg)](https://github.com/bernardo300/people/actions/workflows/ci-dev.yml)
