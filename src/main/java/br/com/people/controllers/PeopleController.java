@@ -8,6 +8,6 @@ public class PeopleController {
 
   @GetMapping("/")
   public String hello(){
-    return "CI Heroku";
+    return "CI/CD Heroku";
   }
 }
