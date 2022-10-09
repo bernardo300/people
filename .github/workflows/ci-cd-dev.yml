@@ -3,9 +3,7 @@ name: CI/CD FOR DEV
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+    branches: [ dev ]
 
 jobs:
   build:
