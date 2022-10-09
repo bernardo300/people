@@ -11,7 +11,7 @@ public class PeopleController {
     return "CI/CD HEROKU  MANO hh";
   }
 
-  @GetMapping("/helo")
+  @GetMapping("/hello")
   public String hello1(){
     return "CI/CD";
   }
