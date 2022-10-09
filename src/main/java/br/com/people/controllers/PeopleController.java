@@ -13,6 +13,6 @@ public class PeopleController {
 
   @GetMapping("/hello")
   public String hello1(){
-    return "CI/CD";
+    return "Ta louco heroku";
   }
 }
